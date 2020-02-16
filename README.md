@@ -1,7 +1,6 @@
 # BasicGames Vol 1 RollaBall
 This game very simple. There a a sphere for movement with arrow keys or wasd and rotating cubes. Cubes disapear when hit the cube with sphere and we gain the point. İf there aren't any cube we will win.
 
-![alt text](https://yadi.sk/i/nSFXSjkbbnuZew)
 
 ## Scripts
 - You can find the scripts folder in the assets.
